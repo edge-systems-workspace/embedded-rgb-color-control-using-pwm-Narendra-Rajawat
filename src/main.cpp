@@ -73,5 +73,6 @@ void loop() {
 
     // TODO 12:
     // Add delay for visible transition
+
     delay(2000);
 }
