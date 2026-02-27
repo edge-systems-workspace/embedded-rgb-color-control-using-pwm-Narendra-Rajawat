@@ -60,6 +60,7 @@ void loop() {
 
     // TODO 9:
     // Set RED brightness using analogWrite()
+
     analogWrite(RED_PIN, 255);   // Full brightness
 
     // TODO 10:
