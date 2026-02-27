@@ -52,6 +52,7 @@ void loop() {
 
     // TODO 8:
     // Turn OFF red
+
     digitalWrite(RED_PIN, LOW);
     delay(1000);
 
